@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+* {
+    font-family: "Winky Rough", sans-serif!important;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+  /* padding: 0; */
+  /* margin: 0; */
+}
+body{
+  padding: 0;
+  margin: 0;
+}
